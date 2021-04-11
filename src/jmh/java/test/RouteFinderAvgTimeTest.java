@@ -19,10 +19,10 @@ public class RouteFinderAvgTimeTest {
 
     /*
      * With heuristic method:
-     *
+     * (min, avg, max) = (12417.534, 13650.079, 14542.934)
      *
      * Without heuristic method:
-     *
+     * (min, avg, max) = (23520.236, 25412.077, 27387.689)
      * */
 
     @Benchmark
