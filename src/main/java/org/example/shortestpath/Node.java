@@ -1,6 +1,6 @@
 package org.example.shortestpath;
 
-class Node {
+final class Node {
     private final int row;
     private final int column;
 
